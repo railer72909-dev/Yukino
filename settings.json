@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stoke.play.hosting",
+    "ip": "yukino.play.hosting",
     "port": 0,
     "version": "1.20.1",
     "try-creative": false
