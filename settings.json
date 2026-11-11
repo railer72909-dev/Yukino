@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yukino.play.hosting",
+    "ip": "raven-mc.play.hosting",
     "port": 0,
     "version": "1.21.1",
     "try-creative": false
